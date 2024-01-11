@@ -1,0 +1,16 @@
+numpy
+jupyter
+pandas
+scipy
+matplotlib
+scikit-learn
+load_dotenv
+openai
+uuid
+seaborn
+tensorflow
+keras
+Levenshtein
+nltk
+gensim
+joblib
